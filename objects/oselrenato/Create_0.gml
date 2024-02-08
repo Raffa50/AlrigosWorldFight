@@ -1,0 +1,2 @@
+musictoplay = renatointro;
+charname = pgrenato;

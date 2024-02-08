@@ -1,0 +1,3 @@
+with (titrimpic) {
+rimpic = true;
+}

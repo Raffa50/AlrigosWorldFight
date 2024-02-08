@@ -1,0 +1,108 @@
+!!! Font unrealfont uses a font (Unreal Tournament) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\unrealfont\unrealfont.gms1.png
+Font arial has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\arial\arial.gms1.png
+Converting GML script: ${project_dir}\objects\game_controller\Create_0.gml
+Converted builtin - line 4: background_index[0] = global.stg -> __background_set( e__BG.Index, 0, global.stg )
+Converted builtin - line 5: background_width[0] -> __background_get( e__BG.Width, 0 )
+Converted builtin - line 5: background_width[0] -> __background_get( e__BG.Width, 0 )
+Converted builtin - line 5: background_width[0] -> __background_get( e__BG.Width, 0 )
+Converted builtin - line 6: background_height[0] -> __background_get( e__BG.Height, 0 )
+Converted builtin - line 6: background_height[0] -> __background_get( e__BG.Height, 0 )
+Converted builtin - line 6: background_height[0] -> __background_get( e__BG.Height, 0 )
+Converted builtin - line 5: background_xscale[0] = 1 * (room_width / __background_get( e__BG.Width, 0 ) -> __background_set( e__BG.XScale, 0, 1 * (room_width / __background_get( e__BG.Width, 0 ) )
+Converted builtin - line 6: background_yscale[0] = 1 * (room_height / __background_get( e__BG.Height, 0 ) -> __background_set( e__BG.YScale, 0, 1 * (room_height / __background_get( e__BG.Height, 0 ) )
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'menumusic' - setting to default audio group
+Missing audiogroup for sound: 'berlintro' - setting to default audio group
+Missing audiogroup for sound: 'bossiintro' - setting to default audio group
+Missing audiogroup for sound: 'garibaldiintro' - setting to default audio group
+Missing audiogroup for sound: 'gagaintro' - setting to default audio group
+Missing audiogroup for sound: 'larussaintro' - setting to default audio group
+Missing audiogroup for sound: 'leninintro' - setting to default audio group
+Missing audiogroup for sound: 'jaksonintro' - setting to default audio group
+Missing audiogroup for sound: 'ozzyintro' - setting to default audio group
+Missing audiogroup for sound: 'vendolaintro' - setting to default audio group
+Missing audiogroup for sound: 'renatointro' - setting to default audio group
+Missing audiogroup for sound: 'papaintro' - setting to default audio group
+Missing audiogroup for sound: 'jobsintro' - setting to default audio group
+Missing audiogroup for sound: 'christinaintro' - setting to default audio group
+Missing audiogroup for sound: 'hemanintro' - setting to default audio group
+Missing audiogroup for sound: 'obamamusic' - setting to default audio group
+Missing audiogroup for sound: 'vanniintro' - setting to default audio group
+Missing audiogroup for sound: 'carraintro' - setting to default audio group
+Missing audiogroup for sound: 'mrbrownintro' - setting to default audio group
+Missing audiogroup for sound: 'battiatointro' - setting to default audio group
+Missing audiogroup for sound: 'fletcherintro' - setting to default audio group
+Missing audiogroup for sound: 'satanaintro' - setting to default audio group
+Missing audiogroup for sound: 'morteintro' - setting to default audio group
+Missing audiogroup for sound: 'norrisintro' - setting to default audio group
+Missing audiogroup for sound: 'schettinointro' - setting to default audio group
+Missing audiogroup for sound: 'emmaintro' - setting to default audio group
+Missing audiogroup for sound: 'biberintro' - setting to default audio group
+Missing audiogroup for sound: 'bastianichintro' - setting to default audio group
+Missing audiogroup for sound: 'padrinointro' - setting to default audio group
+Missing audiogroup for sound: 'mikeintro' - setting to default audio group
+Missing audiogroup for sound: 'olaintro' - setting to default audio group
+Missing audiogroup for sound: 'beanintro' - setting to default audio group
+Missing audiogroup for sound: 'sgarbiintro' - setting to default audio group
+Missing audiogroup for sound: 'banderasintro' - setting to default audio group
+Missing audiogroup for sound: 'spierreintro' - setting to default audio group
+Missing audiogroup for sound: 'psyintro' - setting to default audio group
+Missing audiogroup for sound: 'sndthunder' - setting to default audio group
+Missing audiogroup for sound: 'sthriller' - setting to default audio group
+Missing audiogroup for sound: 'sndexplosion' - setting to default audio group
+Missing audiogroup for sound: 'sndmissil' - setting to default audio group
+Missing audiogroup for sound: 'snddiludendo' - setting to default audio group
+Missing audiogroup for sound: 'sndgranatasanta' - setting to default audio group
+Missing audiogroup for sound: 'sndobamarasengan' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_bounce.gml'
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_color.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_current_room.gml'
+Added compatibility script 'action/action_draw_sprite.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_effect.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_end_sound.gml'
+Added compatibility script 'action/action_font.gml'
+Added compatibility script 'action/action_fullscreen.gml'
+Added compatibility script 'action/action_if.gml'
+Added compatibility script 'action/action_if_dice.gml'
+Added compatibility script 'action/action_if_empty.gml'
+Added compatibility script 'action/action_if_sound.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_move_contact.gml'
+Added compatibility script 'action/action_move_point.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_path.gml'
+Added compatibility script 'action/action_reverse_xdir.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_gravity.gml'
+Added compatibility script 'action/action_set_hspeed.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_vspeed.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'action/action_sprite_transform.gml'
+Added compatibility script 'background/__background_get.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

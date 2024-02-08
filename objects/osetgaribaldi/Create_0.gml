@@ -1,0 +1,2 @@
+musictoplay = garibaldiintro;
+charname = pggaribaldi;

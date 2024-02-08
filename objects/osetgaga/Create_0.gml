@@ -1,0 +1,2 @@
+musictoplay = gagaintro;
+charname = pggaga;

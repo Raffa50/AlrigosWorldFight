@@ -1,0 +1,2 @@
+musictoplay = trumpintro;
+charname = pgtrump;

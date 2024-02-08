@@ -1,0 +1,2 @@
+musictoplay = papaintro;
+charname = pgpapa;

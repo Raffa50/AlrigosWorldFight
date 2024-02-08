@@ -1,0 +1,2 @@
+musictoplay = vendolaintro;
+charname = pgvendola;

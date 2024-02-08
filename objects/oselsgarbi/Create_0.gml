@@ -1,0 +1,2 @@
+musictoplay = sgarbiintro;
+charname = pgsgarbi;

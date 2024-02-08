@@ -1,0 +1,2 @@
+musictoplay = battiatointro;
+charname = pgbattiato;

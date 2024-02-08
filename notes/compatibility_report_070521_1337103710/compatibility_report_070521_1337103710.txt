@@ -1,0 +1,6 @@
+Converting object event to GML script: ${project_dir}\objects\obj_fire\Mouse_4.gml
+Skipped action 2 as it applies to <undefined>
+
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

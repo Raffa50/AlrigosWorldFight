@@ -1,0 +1,2 @@
+musictoplay = schettinointro;
+charname = pgskettino;

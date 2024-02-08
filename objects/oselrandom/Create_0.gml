@@ -1,0 +1,32 @@
+musictoplay = 0;
+pg[1] = pgberl;
+pg[2] = pgbossi;
+pg[3] = pggaga;
+pg[4] = pglarussa;
+pg[5] = pglenin;
+pg[6] = pgjakson;
+pg[7] = pgozzy;
+pg[8] = pgvendola;
+pg[9] = pgrenato;
+pg[10] = pgpapa;
+pg[11] = pgjobs;
+pg[12] = pgchristina_davena;
+pg[13] = pgheman;
+pg[14] = pgobama;
+pg[15] = pgvanni;
+pg[16] = pgcarra;
+pg[17] = pgmrbrown;
+pg[18] = pgbattiato;
+pg[19] = pgfletcher;
+pg[20] = pgmorte;
+pg[21] = pgsatana;
+pg[22] = pgnorris;
+pg[23] = pgskettino;
+pg[24] = pgemma;
+pg[25] = pgbastianich;
+pg[26] = pggaribaldi;
+pg[27] = pgpadrino;
+pg[28] = pgola;
+
+charname = pg[ irandom_range(1,28) ];
+

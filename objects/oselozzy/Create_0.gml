@@ -1,0 +1,2 @@
+musictoplay = ozzyintro;
+charname = pgozzy;

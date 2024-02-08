@@ -1,0 +1,2 @@
+musictoplay = padrinointro;
+charname = pgpadrino;

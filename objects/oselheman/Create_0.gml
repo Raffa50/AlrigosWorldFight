@@ -1,0 +1,2 @@
+charname = pgheman;
+musictoplay = hemanintro;

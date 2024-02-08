@@ -1,0 +1,2 @@
+rasengan = false;
+rasdir = "left";

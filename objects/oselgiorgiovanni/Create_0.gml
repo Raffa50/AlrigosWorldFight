@@ -1,0 +1,2 @@
+musictoplay = vanniintro;
+charname = pgvanni;

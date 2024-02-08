@@ -1,0 +1,2 @@
+musictoplay = olaintro;
+charname = pgola;

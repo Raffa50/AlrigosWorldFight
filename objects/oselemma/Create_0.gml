@@ -1,0 +1,2 @@
+musictoplay = emmaintro;
+charname = pgemma;

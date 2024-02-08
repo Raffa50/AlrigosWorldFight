@@ -1,0 +1,2 @@
+musictoplay = jaksonintro;
+charname = pgjakson;

@@ -1,0 +1,2 @@
+musictoplay = bastianichintro;
+charname = pgbastianich;

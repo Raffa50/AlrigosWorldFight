@@ -1,0 +1,2 @@
+musictoplay = fletcherintro;
+charname = pgfletcher;

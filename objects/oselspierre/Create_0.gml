@@ -1,0 +1,2 @@
+musictoplay = spierreintro;
+charname = pgspierre;

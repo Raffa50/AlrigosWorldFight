@@ -1,0 +1,2 @@
+charname = pgjobs;
+musictoplay = jobsintro;

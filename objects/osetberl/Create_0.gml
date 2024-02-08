@@ -1,0 +1,2 @@
+musictoplay = berlintro;
+charname = pgberl;

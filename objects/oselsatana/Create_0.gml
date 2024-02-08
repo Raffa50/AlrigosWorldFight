@@ -1,0 +1,2 @@
+musictoplay = satanaintro;
+charname = pgsatana;

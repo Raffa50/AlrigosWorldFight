@@ -1,0 +1,2 @@
+musictoplay = morteintro;
+charname = pgmorte;

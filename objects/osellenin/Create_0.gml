@@ -1,0 +1,2 @@
+musictoplay = leninintro;
+charname = pglenin;

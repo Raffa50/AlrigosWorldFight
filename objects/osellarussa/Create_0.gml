@@ -1,0 +1,2 @@
+musictoplay = larussaintro;
+charname = pglarussa;

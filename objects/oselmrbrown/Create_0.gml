@@ -1,0 +1,2 @@
+musictoplay = mrbrownintro;
+charname = pgmrbrown;

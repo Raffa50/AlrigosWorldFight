@@ -1,0 +1,2 @@
+musictoplay = bossiintro;
+charname = pgbossi;
