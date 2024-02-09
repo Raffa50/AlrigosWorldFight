@@ -61,6 +61,7 @@ function scr_ai() {
 	                    case pgpadrino: scr_esecuzione(); break;
 	                    case pgola: scr_disco(); break;
 	                    case pgsgarbi: scr_capra(); break;
+						case pgtrump: scr_trumpwall(); break;
 	                }
 	            break;
 	            case 2: 
@@ -68,7 +69,7 @@ function scr_ai() {
 	                    case pgbossi: scr_padanerasu(); break;
 	                    case pggaga: scr_gagamonster(); break;
 	                    case pgozzy: scr_meteor(); break;
-	                    case pgberl: scr_berleur(); break;
+	                    case pgberl: scr_berleur(berleur); break;
 	                    case pglarussa: scr_granata(); break;
 	                    case pgjakson: scr_vocalexpl(); break;
 	                    case pglenin: scr_laser(); break;
@@ -93,6 +94,7 @@ function scr_ai() {
 	                    case pgpadrino: scr_padr(); break;
 	                    case pgola: scr_testaola(); break;
 	                    case pgsgarbi: scr_monalisa(); break;
+						case pgtrump: scr_berleur(americaflag); break;
 	                }
 	            break;
 	        }
