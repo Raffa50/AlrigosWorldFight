@@ -51,7 +51,7 @@ function scr_ai() {
 	                    case pgvanni: scr_gavekyuby(); break;
 	                    case pgmrbrown: scr_cat(); break;
 	                    case pgbattiato: scr_cibakutensei(); break;
-	                    case pgfletcher: scr_gattonero(); break;
+	                    case pgfletcher: scr_gattonero(ogattonero); break;
 	                    case pgmorte: scr_bara(); break;
 	                    case pgsatana: scr_satanaseal(); break;
 	                    case pgnorris: scr_flykick(); break;
@@ -62,6 +62,7 @@ function scr_ai() {
 	                    case pgola: scr_disco(); break;
 	                    case pgsgarbi: scr_capra(); break;
 						case pgtrump: scr_trumpwall(); break;
+						case pgmac: scr_gattonero(ocigno); break;
 	                }
 	            break;
 	            case 2: 
@@ -84,7 +85,7 @@ function scr_ai() {
 	                    case pgvanni: scr_poke(); break;
 	                    case pgmrbrown: scr_bandierainglese(); break;
 	                    case pgbattiato: scr_shinratensei(); break;
-	                    case pgfletcher: scr_incudine(); break;
+	                    case pgfletcher: scr_incudine(oincudine); break;
 	                    case pgmorte: scr_teschio(); break;
 	                    case pgsatana: scr_666(); break;
 	                    case pgnorris: scr_fpunch(); break;
@@ -95,6 +96,7 @@ function scr_ai() {
 	                    case pgola: scr_testaola(); break;
 	                    case pgsgarbi: scr_monalisa(); break;
 						case pgtrump: scr_berleur(americaflag); break;
+						case pgmac: scr_incudine(otrapezio); break;
 	                }
 	            break;
 	        }

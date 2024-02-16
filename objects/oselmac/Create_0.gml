@@ -1,2 +1,2 @@
 musictoplay = macintro;
-charname = 0;
+charname = pgmac;

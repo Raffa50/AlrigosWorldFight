@@ -1,0 +1,2 @@
+kick = false;
+punching = false;

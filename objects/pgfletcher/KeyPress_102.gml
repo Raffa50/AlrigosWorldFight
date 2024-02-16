@@ -1,6 +1,5 @@
-var __b__;
-__b__ = action_if_variable(plid, 2, 0);
-if __b__
+if plid == 2
 {
-script_execute(scr_incudine,0,0,0,0,0);
+ //script_execute(scr_incudine,0,0,0,0,0);
+	scr_incudine(oincudine);
 }
