@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "movesx",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "moves",
-    "path": "folders/Scripts/moves.yy",
+  "$GMScript":"v1",
+  "%Name":"movesx",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"movesx",
+  "parent":{
+    "name":"moves",
+    "path":"folders/Scripts/moves.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

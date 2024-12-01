@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_powersword",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "heman",
-    "path": "folders/Scripts/moves/heman.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_powersword",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_powersword",
+  "parent":{
+    "name":"heman",
+    "path":"folders/Scripts/moves/heman.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

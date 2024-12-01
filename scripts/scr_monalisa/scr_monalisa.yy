@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_monalisa",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "sgarbi",
-    "path": "folders/Scripts/moves/sgarbi.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_monalisa",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_monalisa",
+  "parent":{
+    "name":"sgarbi",
+    "path":"folders/Scripts/moves/sgarbi.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

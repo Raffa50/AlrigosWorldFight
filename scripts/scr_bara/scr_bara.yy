@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_bara",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "morte",
-    "path": "folders/Scripts/moves/morte.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_bara",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_bara",
+  "parent":{
+    "name":"morte",
+    "path":"folders/Scripts/moves/morte.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

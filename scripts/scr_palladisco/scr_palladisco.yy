@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_palladisco",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "vendola",
-    "path": "folders/Scripts/moves/vendola.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_palladisco",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_palladisco",
+  "parent":{
+    "name":"vendola",
+    "path":"folders/Scripts/moves/vendola.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

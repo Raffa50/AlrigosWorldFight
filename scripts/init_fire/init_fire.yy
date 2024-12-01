@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "init_fire",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "drawscr",
-    "path": "folders/Scripts/drawscr.yy",
+  "$GMScript":"v1",
+  "%Name":"init_fire",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_fire",
+  "parent":{
+    "name":"drawscr",
+    "path":"folders/Scripts/drawscr.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_iphone",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "jobs",
-    "path": "folders/Scripts/moves/jobs.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_iphone",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_iphone",
+  "parent":{
+    "name":"jobs",
+    "path":"folders/Scripts/moves/jobs.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

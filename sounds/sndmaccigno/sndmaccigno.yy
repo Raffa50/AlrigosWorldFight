@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndmaccigno",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.343673,
+  "name":"sndmaccigno",
+  "parent":{
+    "name":"mac",
+    "path":"folders/Sounds/movesound/mac.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndmaccigno.mp3",
+  "type":0,
+  "volume":1.0,
+}

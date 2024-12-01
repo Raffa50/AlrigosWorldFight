@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_esecuzione",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "padrino",
-    "path": "folders/Scripts/moves/padrino.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_esecuzione",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_esecuzione",
+  "parent":{
+    "name":"padrino",
+    "path":"folders/Scripts/moves/padrino.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

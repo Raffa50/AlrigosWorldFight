@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_granatasanta",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "papa",
-    "path": "folders/Scripts/moves/papa.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_granatasanta",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_granatasanta",
+  "parent":{
+    "name":"papa",
+    "path":"folders/Scripts/moves/papa.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

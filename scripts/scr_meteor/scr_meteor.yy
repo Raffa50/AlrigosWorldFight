@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_meteor",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "ozzy",
-    "path": "folders/Scripts/moves/ozzy.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_meteor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_meteor",
+  "parent":{
+    "name":"ozzy",
+    "path":"folders/Scripts/moves/ozzy.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

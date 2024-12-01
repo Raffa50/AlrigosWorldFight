@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_granata",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "larussa",
-    "path": "folders/Scripts/moves/larussa.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_granata",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_granata",
+  "parent":{
+    "name":"larussa",
+    "path":"folders/Scripts/moves/larussa.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

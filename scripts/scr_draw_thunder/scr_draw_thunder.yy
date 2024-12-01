@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_draw_thunder",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "drawscr",
-    "path": "folders/Scripts/drawscr.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_draw_thunder",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_thunder",
+  "parent":{
+    "name":"drawscr",
+    "path":"folders/Scripts/drawscr.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

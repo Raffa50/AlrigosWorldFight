@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_gavekyuby",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "vanni",
-    "path": "folders/Scripts/moves/vanni.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_gavekyuby",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_gavekyuby",
+  "parent":{
+    "name":"vanni",
+    "path":"folders/Scripts/moves/vanni.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

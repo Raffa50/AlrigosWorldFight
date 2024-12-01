@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_dragon",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "skettino",
-    "path": "folders/Scripts/moves/skettino.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_dragon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_dragon",
+  "parent":{
+    "name":"skettino",
+    "path":"folders/Scripts/moves/skettino.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

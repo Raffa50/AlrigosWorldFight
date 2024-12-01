@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_disco",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "ola",
-    "path": "folders/Scripts/moves/ola.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_disco",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_disco",
+  "parent":{
+    "name":"ola",
+    "path":"folders/Scripts/moves/ola.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
